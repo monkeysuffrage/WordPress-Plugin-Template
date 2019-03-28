@@ -2,18 +2,17 @@
 /*
  * Plugin Name: WordPress Plugin Template
  * Version: 1.0
- * Plugin URI: http://www.hughlashbrooke.com/
- * Description: This is your starter template for your next WordPress plugin.
- * Author: Hugh Lashbrooke
+ * Plugin URI: http://pguardiar.io/
+ * Description: Fill in later
+ * Author: P Guardiario
  * Author URI: http://www.hughlashbrooke.com/
  * Requires at least: 4.0
  * Tested up to: 4.0
  *
- * Text Domain: wordpress-plugin-template
  * Domain Path: /lang/
  *
  * @package WordPress
- * @author Hugh Lashbrooke
+ * @author P Guardiario
  * @since 1.0.0
  */
 
