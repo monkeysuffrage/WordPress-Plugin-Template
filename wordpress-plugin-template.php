@@ -2,10 +2,10 @@
 /*
  * Plugin Name: WordPress Plugin Template
  * Version: 1.0
- * Plugin URI: http://pguardiar.io/
+ * Plugin URI: https://github.com/monkeysuffrage/WordPress-Plugin-Template
  * Description: Fill in later
  * Author: P Guardiario
- * Author URI: http://www.hughlashbrooke.com/
+ * Author URI: http://pguardiar.io/
  * Requires at least: 4.0
  * Tested up to: 4.0
  *
